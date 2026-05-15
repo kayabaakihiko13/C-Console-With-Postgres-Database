@@ -1,0 +1,6 @@
+obj/
+bin/
+.env
+.env.dev
+.env.local
+.env.prod
